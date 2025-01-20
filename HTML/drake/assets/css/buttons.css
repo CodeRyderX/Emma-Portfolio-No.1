@@ -1,0 +1,8 @@
+.archive-btn {
+    width: max-content;
+    height: max-content;
+    padding-inline: 30px;
+    padding-block: 10px;
+    margin: auto;
+    cursor: pointer;
+}
